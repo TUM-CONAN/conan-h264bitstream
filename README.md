@@ -1,6 +1,6 @@
 ## This repository holds a conan recipe for h264bitstream.
 
-[Conan.io](https://conan.io) package for [the h264bitstream C++ library](https://github.com/h264bitstream/h264bitstream-c) project
+[Conan.io](https://conan.io) package for [the h264bitstream C++ library](https://github.com/ulricheck/h264bitstream) project
 
 ## Add Remote
 
@@ -45,4 +45,3 @@ This is a header only library, so nothing needs to be built.
     $ conan upload -r camposs h264bitstream/0.2@camposs/stable
 
 ### License
-[License](https://raw.githubusercontent.com/h264bitstream/h264bitstream-c/master/COPYING)
